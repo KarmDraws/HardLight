@@ -1717,3 +1717,9 @@ Entries:
         code is ugly but it works.
   id: 185
   time: '2026-03-12T04:11:45.0000000+00:00'
+- author: warcrazed11
+  changes:
+    - type: Tweak
+      message: Tweaked WT-550 top mags and ammo acceptance to take the mags.
+  id: 186
+  time: '2026-03-12T04:14:00.0000000+00:00'
