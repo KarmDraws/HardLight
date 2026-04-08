@@ -2316,3 +2316,11 @@ Entries:
       message: Aphrodesiac bite now has a cooldown.
   id: 252
   time: '2026-04-04T19:55:06.0000000+00:00'
+- author: Magniras
+  changes:
+    - type: Add
+      message: Restored cool sexy thieving gloves
+    - type: Remove
+      message: Removed boring smelly thieving gloves
+  id: 253
+  time: '2026-04-08T21:36:19.0000000+00:00'
