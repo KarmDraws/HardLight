@@ -2800,3 +2800,9 @@ Entries:
       message: Made XenoWeeds killable again!
   id: 299
   time: '2026-04-18T23:18:58.0000000+00:00'
+- author: TrylobyteWasTaken
+  changes:
+    - type: Tweak
+      message: Expedition Disks now show the type of enemy that's on them.
+  id: 300
+  time: '2026-04-19T05:52:17.0000000+00:00'
